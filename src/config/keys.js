@@ -1,3 +1,3 @@
-export const MONGODB_URI = "mongodb+srv://SmartBus_Admin:@Dilum1234@smartbus-cluster.j7ochmc.mongodb.net/?appName=SmartBus-Cluster";
-export const DB_NAME = "smartbus";
-export const GOOGLE_MAPS_API_KEY = ""; // we add this later
+export const SUPABASE_URL = "https://srbvzxzajsysxvirssfp.supabase.co";
+export const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNyYnZ6eHphanN5c3h2aXJzc2ZwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODEyNDk1NjcsImV4cCI6MjA5NjgyNTU2N30.X7JE4sSJA0KLPvmxnQN0lpxkAzJowiqeYTXVq7X_ENk";
+export const GOOGLE_MAPS_API_KEY = "";
